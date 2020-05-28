@@ -1,4 +1,4 @@
-# [robotnyc.com](https://robotnyc.com/) Jekyll Site
+# [blog.robotnyc.com](https://blog.robotnyc.com/) Jekyll Site
 
 ## Edit
 
